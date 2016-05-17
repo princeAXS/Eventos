@@ -1,0 +1,165 @@
+{
+  'events': [{
+    'event_url': 'http://losangeles.eventful.com/events/all-snap-crackle-and-p-/E0-001-085816976-1@2015110619?utm_source=apis&utm_medium=apim&utm_campaign=apic',
+    'description': u ' $100.00 until November 4th Package Includes 11/07/15-Friday-Meet & Greet Party-7:30 to 11:00 ($10.00 @ Door) @ Fitness By Choice 14114 S. Normandie Ave. Gardena, CA 11/07/15-Saturday-Workshop-11:00a to 3:00p Showcase/Dinner/Party-6:00p to 1:00a 11/08/15-Sunday-Breakfast/Farewell Party-10:00a-3:00p @ The Foundation Center 11633 Western Ave. Los Angeles, CA Hotel: La Quinta Inns and Suites 5249 W. Century Blvd, L.A., CA\xa0 **Subject to Change** \xa0 ',
+    'start_time': '2015-11-06 19:30:00',
+    'long': '-118.309',
+    'end_time': None,
+    'lat': '33.9534',
+    'logo_url': 'http://s3.evcdn.com/images/medium/I0-001/023/424/666-4.jpeg_/all-snap-crackle-and-pop-line-dance-ev-66.jpeg',
+    'name': 'All SNAP, Crackle and Pop Line Dance Event'
+  }, {
+    'event_url': 'http://losangeles.eventful.com/events/test-hosted-/E0-001-088058644-6?utm_source=apis&utm_medium=apim&utm_campaign=apic',
+    'description': 'none',
+    'start_time': '2015-11-22 19:30:00',
+    'long': '-118.441',
+    'end_time': None,
+    'lat': '34.0499',
+    'logo_url': 'none',
+    'name': 'Test Hosted By'
+  }, {
+    'event_url': 'http://losangeles.eventful.com/events/pure-bathing-culture-/E0-001-085220766-1?utm_source=apis&utm_medium=apim&utm_campaign=apic',
+    'description': ' with Wild Ones, Psychic Twin<br> Daniel Hindman and Sarah Versprille began writing songs together in 2009 while living in Brooklyn, NY. In 2011, the duo packed up their lives, moved to Portland, OR and realized that it was time to put a name to the batch of songs they&#39;d been working on -- Pure Bathing Culture was born. Through various serendipitous connections, multi-instrumentalist and producer Richard Swift (Secretly Canadian) heard their early demos and immediately invited them to record with him at his National Freedom Studio in Cottage Grove, OR. The fruits of this recording session comprise their self-titled EP, an elegant collection of four beautiful songs, constructed with smooth melodies embodying the nostalgia of soft soulful 80s pop but with a freshness all of their own.',
+    'start_time': '2015-11-02 20:30:00',
+    'long': '-118.260077',
+    'end_time': None,
+    'lat': '34.077574',
+    'logo_url': 'http://s3.evcdn.com/images/medium/I0-001/020/299/722-6.jpeg_/pure-bathing-culture-22.jpeg',
+    'name': 'Pure Bathing Culture'
+  }, {
+    'event_url': 'http://losangeles.eventful.com/events/occult-la-season-witch-occult-saved-rock-n-r-/E0-001-088058643-7?utm_source=apis&utm_medium=apim&utm_campaign=apic',
+    'description': 'none',
+    'start_time': '2015-10-21 19:30:00',
+    'long': '-118.3615766',
+    'end_time': None,
+    'lat': '34.0820299',
+    'logo_url': 'none',
+    'name': "OCCULT LA: Season of the Witch - How the Occult Saved Rock 'N Roll (w/ a special screening of Performance)"
+  }, {
+    'event_url': 'http://losangeles.eventful.com/events/prophecy-writerdirectorcreator-gregory-widen-/E0-001-087944558-7?utm_source=apis&utm_medium=apim&utm_campaign=apic',
+    'description': 'none',
+    'start_time': '2015-10-20 19:30:00',
+    'long': '-118.3615766',
+    'end_time': None,
+    'lat': '34.0820299',
+    'logo_url': 'none',
+    'name': 'The Prophecy (with Writer/Director/Creator Gregory Widen, Adam Goldberg & Composer David Williams in person!)'
+  }, {
+    'event_url': 'http://losangeles.eventful.com/events/2015-usc-alpha-phi-red-dress-gala-/E0-001-088057283-2?utm_source=apis&utm_medium=apim&utm_campaign=apic',
+    'description': u ' For over ten years Red Dress Gala has allowed current Beta Pi members to celebrate the Alpha Phi Foundation in the company of guests, like yourselves, who understand how important philanthropy is now and in the future. The national organization of Alpha Phi first chose Polio as the charity it would support. \xa0When Polio was eradicated, Alpha Phi turned it&#39;s attention to the number one killer of women in the United States; Heart Disease. \xa0The Alpha Phi Foundation supports women&#39;s heart health throughout the nation and seeks to, yet again, eradicate a terrible killer. \xa0 The Foundation has awarded more than $300,000 within the last 2 years to support scholarships, emergency financial assistance, local charities designated by chapters, leadership training opportunities and educational programs. In 2014, the Beta Pi chapter raised $52,110 making us one of the top ten fundraising chapters in the country. This year, we\u2019re looking to increase that number with your help! \xa0 HOTEL RESERVATIONS:\xa0If you are interested in staying at the Sheraton Hotel Downtown LA, Alpha Phi has a special rate available for Red Dress Gala guests. Please click here for more information on discounted room rates.\xa0 \xa0 FAQs Do I need to buy a ticket for any Alpha Phi Beta Pi ACTIVE members?\xa0No! 2015-2016 active members have already paid for a ticket via their dues.\xa0 What are my transport/parking options getting to the event?\xa0Parking is available at the Sheraton Downtown Los Angeles Hotel via Valet.\xa0 Can I donate to the Alpha Phi Foundation prior to the event?\xa0Yes! Donations can be made directly to the Alpha Phi Foundation online here. Just note USC Beta Pi under the chapter section.\xa0 Where can I contact the organizer with any questions?\xa0Contact via email at reddressgala.betapi@gmail.com. ',
+    'start_time': '2015-10-23 18:00:00',
+    'long': '-118.2583182',
+    'end_time': None,
+    'lat': '34.0478228',
+    'logo_url': 'http://s3.evcdn.com/images/medium/I0-001/023/538/702-9.jpeg_/2015-usc-alpha-phi-red-dress-gala-02.jpeg',
+    'name': '2015 USC Alpha Phi Red Dress Gala'
+  }, {
+    'event_url': 'http://losangeles.eventful.com/events/movie-night-under-stars-finding-nemo-/E0-001-088056433-8?utm_source=apis&utm_medium=apim&utm_campaign=apic',
+    'description': u ' Ages:\xa0All ages <p>South Coast Botanic Gardens hosts a family-friendly outdoor screening of <em>Finding Nemo </em>(PG).<p>Bring a blanket and chairs.\xa0 Food is available for purchase.<p>Gates open at 5:30pm.<p></p></p></p></p>',
+    'start_time': '2015-10-16 19:00:00',
+    'long': '-118.3489480',
+    'end_time': None,
+    'lat': '33.7833390',
+    'logo_url': 'none',
+    'name': 'Movie Night Under the Stars: Finding Nemo'
+  }, {
+    'event_url': 'http://losangeles.eventful.com/events/thefitexpo-los-angeles-/E0-001-085651203-9@2016012310?utm_source=apis&utm_medium=apim&utm_campaign=apic',
+    'description': u ' TICKETS ARE NONREFUNDABLE. \xa0Please read carefully: \xa0Discount Coupons are NOT Accepted for Online Ticket Purchases. \xa0\xa0Please make sure to double check your email address for accuracy prior to submitting your purchase.\xa0 \xa0 Now in its 13th year, TheFitExpo Los Angeles takes place January 23-24, 2016 at the Los Angeles Convention Center. The Los Angeles Convention Center is located at 1201 South Figueroa Street Los Angeles, CA 90015 Click here for directions: http://www.lacclink.com/lacclink/Visiting.aspx \xa0 THEFITEXPO LOS ANGELES SHOW HOURS Saturday, January 23, 2016: 10:00 AM - 6:00 PM Sunday, January 24, 2016 10:00 AM - 5:00 PM \xa0 PARKING DETAILS: There are a number of parking options for those driving to TheFitExpo Los Angeles. Our event is in the South Hall, so parking at the South Side Convention Center entrances are the best. The West garages are open as well. In addition, the lots at LA LIVE and the parking lots across Figueroa will be open and available.\xa0 Click here for parking information: http://www.lacclink.com/attendees/parking Come early and enjoy a full day with us! \xa0 \xa0 FAQs: \xa0 Where can I contact the organizer with any questions? Please call: (888) FIT-EXPO or email TheFitExpo@gmail.com \xa0 Is my registration/ticket transferrable? Yes, your ticket is transferrable. Please note that once the barcode has been scanned for entry, any other subsequent scans will be rejected. \xa0 Do I have to bring my printed ticket to the event? A paper ticket is preferred, however in the event you do not have access to a printer, the barcode can be scanned from the PDF via your smartphone&#39;s emailed confirmation. \xa0 What is the refund policy? Tickets are NON-refundable. If you are unable to attend TheFitExpo for any reason you may transfer your ticket to another person. Tickets will not be refunded. \xa0 The name on the registration/ticket doesn&#39;t match the attendee. Is that okay? Yes, that is okay. A lot of people receive the expo tickets as a gift. ',
+    'start_time': '2016-01-23 10:00:00',
+    'long': '-118.26944617462158',
+    'end_time': None,
+    'lat': '34.040435699078756',
+    'logo_url': 'http://s4.evcdn.com/images/medium/I0-001/023/539/467-6.jpeg_/thefitexpo-los-angeles-2016-67.jpeg',
+    'name': 'TheFitExpo, Los Angeles 2016'
+  }, {
+    'event_url': 'http://losangeles.eventful.com/events/stardomusa-10182015-/E0-001-085641608-1?utm_source=apis&utm_medium=apim&utm_campaign=apic',
+    'description': u ' StardomUSA Japanese Female Professional Wrestling Event. \xa06pm start.\xa0 ',
+    'start_time': '2015-10-18 18:00:00',
+    'long': '-117.9646854',
+    'end_time': None,
+    'lat': '34.0858282',
+    'logo_url': 'http://s4.evcdn.com/images/medium/I0-001/023/539/447-2.jpeg_/stardomusa-10182015-47.jpeg',
+    'name': 'StardomUSA 10/18/2015'
+  }, {
+    'event_url': 'http://losangeles.eventful.com/events/tour-torrance-birding-/E0-001-087674501-5@2016010508?utm_source=apis&utm_medium=apim&utm_campaign=apic',
+    'description': ' <b>Calendar:</b><br>Friends of Madrona Marsh<br>\n<br> <b>Contact:</b><br><a href="mailto:MadronaMarshPreserve%40torrnet.com" rel="nofollow">Madrona Marsh Admin </a><br>\n<br> <b>Description:</b><br>Take a stroll with Ron Melin and Dave Moody and learn how to identify the different species of birds at the Madrona Marsh Preserve as well as other parks throughout the city of Torrance. Free! Donations accepted. For more information please contact the Madrona Marsh Nature Center at 310-782-3989.\n',
+    'start_time': '2016-01-05 08:30:00',
+    'long': '-118.2436596',
+    'end_time': '2016-01-05 10:30:00',
+    'lat': '34.0522265',
+    'logo_url': 'none',
+    'name': 'Tour de Torrance - Birding "hot spots" of the South Bay, Free!'
+  }, {
+    'event_url': 'http://losangeles.eventful.com/events/womens-national-book-association-celebrates-nat-/E0-001-086577960-9?utm_source=apis&utm_medium=apim&utm_campaign=apic',
+    'description': u ' <p><p>Diesel, A Bookstore in Brentwood welcomes the Los Angeles chapter of the Women&#39;s National Book Association and authors <strong>Aline Ohanesian, Rachel Howzell Hall,</strong>\xa0and <strong>Meg Waite Clayton</strong>\xa0to celebrate National Reading Group Month at the store with a panel discussion on Thursday, October 22nd at 6:30pm. Moderating the discussion will be the chapter president\xa0<strong>Rachelle Yousuf</strong>.<p>Every October, the 10 chapters of the Women&#39;s National Book Association, located around the country, organize events in celebration of National Reading Group Month. The L.A. chapter has gathered three outstanding local authors to take part in a panel discussion.\xa0Please join us for an evening showcasing exceptional talent and lively discussions. Find out more at<a href="http://www.nationalreadinggroupmonth.org/" rel="nofollow"> www.nationalreadinggroupmonth.org</a><p><strong></strong><strong>Aline Ohanesian&#39;s\xa0</strong>great-grandmother was a survivor of the Armenian Genocide. Her history was the kernel for the story that Ohanesian tells in her first novel,<strong><em> Orhan&#39;s Inheritance</em></strong>. Ohanesian was a finalist for the PEN/Bellwether Prize for Fiction and <em>Glimmer Train&#39;s </em>Short Story Award for New Writers. Born in Northridge, California, she lives and writes in San Juan Capistrano, California, with her husband and two young sons.\xa0<p><strong></strong><strong>Rachel Howzell Hall\xa0</strong>is a writer/assistant development director at City of Hope, a national leader in cancer research and treatment. Her first novel,<em> A Quiet Storm</em>, was a featured selection of Borders&#39; Original Voices program, as well as an alternate selection of the Black Expressions book club. Her lastest book, <strong><em>Skies of Ash,</em></strong>\xa0is the second book in the Detective Elouise Norton series. She lives in Los Angeles.<p><strong>Meg Waite Clayton\xa0</strong>is the New York Times bestselling author of five novels, most recently <strong><em>The Race for Paris</em></strong>\u2014the story of two journalists vying to make history by reporting the liberation of Paris in the summer of 1944. \xa0She is also the author of <em>The Wednesday Sisters</em>\xa0and <em>The Language of Light </em>which\xa0was a finalist for the Bellwether Prize (now the PEN/Bellwether). Meg has also written for the <em>Los Angeles Times, The New York Times, The Washington Post, the San Francisco Chronicle, Runner&#39;s World</em> and public radio.<p><strong>Rachelle Yousuf</strong> is the Membership Assistant at PEN Center USA. She is the current president of the Women&#39;s National Book Association, Los Angeles Chapter and recently graduated with a master&#39;s in English Literature at California State University, Northridge. In her role as president, she is the co-chair of the L.A. Writers Conference. She is also the Event Coordinator for National Reading Group Month.</p></p></p></p></p></p></p>',
+    'start_time': '2015-10-22 06:30:00',
+    'long': '-118.4904307',
+    'end_time': None,
+    'lat': '34.0475109',
+    'logo_url': 'none',
+    'name': "Women's National Book Association celebrates National Reading Group Month"
+  }, {
+    'event_url': 'http://losangeles.eventful.com/events/michaela-haas-phd-discusses-and-signs-bouncingf-/E0-001-086410890-1?utm_source=apis&utm_medium=apim&utm_campaign=apic',
+    'description': u ' <p>DIESEL, A Bookstore in Brentwood welcomes author<strong>\xa0Michaela Haas,\xa0</strong>PhD.<strong>\xa0</strong>to the store to discuss and sign her new motivational book,<em><strong>\xa0Bouncing Forward: Transforming Bad Breaks Into Breakthroughs</strong></em>, on Tuesday, October 20th at 6:30pm.<p>The uplifting science of posttraumatic growth presents groundbreaking research and proven methods to survive and thrive in the face of challenges. Twelve inspiring role models share their profound insights on how they emerged from hardship stronger, wiser, and more compassionate--among them civil rights icon Maya Angelou, who healed deep childhood trauma; flight surgeon Rhonda Cornum, who found a new purpose after being captured in Iraq; renowned autistic pioneer Temple Grandin, who overcame crippling panic attacks; and famed jazz guitarist Coco Schumann, who played for his life in Auschwitz. In<strong><em> Bouncing Forward</em></strong>, <strong>Michaela Haas </strong>draws upon powerful storytelling, psychology, history, and twenty years of Buddhist practice to reshape the way we think of crisis.<p>Unlike books from the medical community, <strong><em>Bouncing Forward</em></strong> is a user-friendly source of techniques actual trauma survivors have used to benefit from pain and adversity. Haas draws on common coping threads to beautifully combine inspirational stories of growth through trauma with science and spirituality. Perfect for people from all walks of life who are recovering from loss, pain, illness, and violence--as well as their friends and family--<strong><em>Bouncing Forward</em></strong> offers examples and inspiration for growth and a mindful approach to dealing with suffering, and finding a deeper meaning in life.<p><strong>Michaela Haas,</strong> PhD., is an international reporter, lecturer, author, and consultant. She is the owner of HAAS live!, an international coaching company that combines her experience in media with mindfulness training. With a PhD in Asian Studies, she has been teaching Buddhism at the University of California Santa Barbara, the University of the West, and various Buddhist centers in America and Europe. Michaela divides her time between Malibu, California, and Munich, Germany.\xa0</p></p></p></p>',
+    'start_time': '2015-10-20 18:30:00',
+    'long': '-118.4904307',
+    'end_time': None,
+    'lat': '34.0475109',
+    'logo_url': 'none',
+    'name': 'Michaela Haas PhD. discusses and signs "Bouncing Forward"'
+  }, {
+    'event_url': 'http://losangeles.eventful.com/events/tara-sitser-john-zipperer-friends-/E0-001-086707043-2?utm_source=apis&utm_medium=apim&utm_campaign=apic',
+    'description': 'none',
+    'start_time': '2015-11-21 18:30:00',
+    'long': '-118.1317505',
+    'end_time': None,
+    'lat': '34.1806593',
+    'logo_url': 'none',
+    'name': 'Tara Sitser- John Zipperer & Friends'
+  }, {
+    'event_url': 'http://losangeles.eventful.com/events/heather-mcdonald-/E0-001-087894716-7?utm_source=apis&utm_medium=apim&utm_campaign=apic',
+    'description': u ' <strong>Besides performing stand up comedy, HEATHER McDONALD is a full-time writer and story producer on the E! Channel\u2019s top rated show<em> \u2013 \xa0Chelsea Lately. S</em>he has also appeared\xa0 on<em> Gotham Comedy Live, RuPaul&#39;s Drag Race, The Wendy Williams Show</em> and more. Featuring SAM COMROE (Conan) and RON G (Punk&#39;d, Key and Peele, Chelsea Lately, Comic View).</strong>',
+    'start_time': '2015-10-16 20:00:00',
+    'long': '-118.1308381',
+    'end_time': None,
+    'lat': '34.1464535',
+    'logo_url': 'http://s1.evcdn.com/images/medium/I0-001/000/873/352-9.jpeg_/heather-mcdonald-52.jpeg',
+    'name': 'Heather McDonald'
+  }, {
+    'event_url': 'http://losangeles.eventful.com/events/ilya-itin-/E0-001-088031004-7?utm_source=apis&utm_medium=apim&utm_campaign=apic',
+    'description': u ' <p>The newly launched David L. Abell series invites three internationally renowned concert pianists/pedagogues to perform short recitals followed by masterclasses with UCLA piano students.<p>Artistic Director of the series is Inna Faliks, head of piano at UCLA, professor and concert pianist.<p>\xa0<p><p>\xa0<ul><li>October 29: Ilana Vered, internationally renowned pianist and teacher<li>March 3: Ilya Itin, Russian-American pianist and teacher<li>May 19: Baruch Meier, pianist and Arizona State University professor</li></li></li></ul></p></p></p></p></p>',
+    'start_time': '2016-03-03 18:30:00',
+    'long': '-118.4470006343933',
+    'end_time': None,
+    'lat': '34.069554645108376',
+    'logo_url': 'none',
+    'name': 'Ilya Itin'
+  }, {
+    'event_url': 'http://losangeles.eventful.com/events/baruch-meier-/E0-001-088031006-5?utm_source=apis&utm_medium=apim&utm_campaign=apic',
+    'description': u ' <p>The newly launched David L. Abell series invites three internationally renowned concert pianists/pedagogues to perform short recitals followed by masterclasses with UCLA piano students.<p>Artistic Director of the series is Inna Faliks, head of piano at UCLA, professor and concert pianist.<p>\xa0<p><p>\xa0<ul><li>October 29: Ilana Vered, internationally renowned pianist and teacher<li>March 3: Ilya Itin, Russian-American pianist and teacher<li>May 19: Baruch Meier, pianist and Arizona State University professor</li></li></li></ul></p></p></p></p></p>',
+    'start_time': '2016-05-19 18:30:00',
+    'long': '-118.4470006343933',
+    'end_time': None,
+    'lat': '34.069554645108376',
+    'logo_url': 'none',
+    'name': 'Baruch Meier'
+  }, {
+    'event_url': 'http://losangeles.eventful.com/events/ilana-vered-/E0-001-088031003-8?utm_source=apis&utm_medium=apim&utm_campaign=apic',
+    'description': ' <p>The newly launched David L. Abell series invites three internationally renowned concert pianists/pedagogues to perform short recitals followed by masterclasses with UCLA piano students.<p>Artistic Director of the series is Inna Faliks, head of piano at UCLA, professor and concert pianist.<p><ul><li>October 29: Ilana Vered, internationally renowned pianist and teacher<li>March 3: Ilya Itin, Russian-American pianist and teacher<li>May 19: Baruch Meier, pianist and Arizona State University professor</li></li></li></ul></p></p></p>',
+    'start_time': '2015-10-29 18:30:00',
+    'long': '-118.4470006343933',
+    'end_time': None,
+    'lat': '34.069554645108376',
+    'logo_url': 'none',
+    'name': 'Ilana Vered'
+  }, {
+    'event_url': 'http://losangeles.eventful.com/events/russell-deboseboyd-phd-ut-southwestern-medica-/E0-001-088031001-0?utm_source=apis&utm_medium=apim&utm_campaign=apic',
+    'description': ' <p>Russell A. DeBose-Boyd, Ph.D. Professor of Molecular Genetics; UT Southwestern Medical Center. Topic: &#39;Elucidating Role of ER-Associated Degradation in Regulation of the Cholesterol Biosynthetic Pathway&#39;<p>Dr. Russell A. DeBose-Boyd studies mechanisms through which the cholesterol biosynthetic enzyme HMG-CoA reductase is subject to sterol-induced, ER-associated degradation, a crucial intermediate in the synthesis of cholesterol.</p></p>',
+    'start_time': '2015-10-21 12:00:00',
+    'long': '-118.4470006343933',
+    'end_time': None,
+    'lat': '34.069554645108376',
+    'logo_url': 'none',
+    'name': 'Russell A. DeBose-Boyd, Ph.D., UT Southwestern Medical Center'
+  }, {}]
+}
