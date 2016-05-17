@@ -1,0 +1,51 @@
+//USER Table:
+
+CREATE EXTENSION Postgis;
+
+create table UserTable
+( userId  SERIAL,
+  userName VARCHAR(20) NOT NULL,
+  password VARCHAR(32) NOT NULL,
+  email VARCHAR(320) NOT NULL,
+  phoneNumber CHAR(20) NOT NULL,
+  CONSTRAINT user_pk PRIMARY KEY (userId)
+);
+INSERT INTO UserTable
+VALUES (1,'kirti','munmun','kirtiram@usc.edu','2134773932');
+
+//GEOFENCE Table
+create table Geofence
+(
+geofenceId SERIAL,
+geofenceName VARCHAR(20) NOT NULL,
+userId INTEGER,
+radius REAL,
+center GEOGRAPHY(POINT, 4326),
+CONSTRAINT geo_pk PRIMARY KEY (geofenceId)
+);
+
+INSERT INTO Geofence (geofenceId, geofenceName, geofenceCreator,center) VALUES (1,'GEO1','1', ST_GeographyFromText('SRID=4326;POINT(-110 30)') );
+
+// Events Table
+create table Events
+(
+eventId SERIAL,
+eventName VARCHAR(200) NOT NULL,
+description VARCHAR(200) ,
+logo_url VARCHAR(200),
+end_time timestamp default NULL
+start_time timestamp default NULL
+sourceWeightage INTEGER,
+eventWebsiteURL VARCHAR(200),
+location GEOGRAPHY(POINT,4326),
+CONSTRAINT event_pk PRIMARY KEY (eventId)
+);
+INSERT INTO Events ( eventName, description, logo_url, end_time, start_time, sourceWeightage, eventWebsiteURL, location) VALUES(
+'LA Cookie Con and Sweets Show 2016',
+'LA Cookie Con and Sweets Show is the West Coast\u2019s biggest baking and sweets convention! \n* Due to its popularity, ',
+'https://img.evbuc.com/https%3A%2F%2Fimg.evbuc.com%2Fhttp%253A%252F%252Fcdn.evbuc.com%',
+'',
+'2016-02-06 10:00:00',
+1,
+'"http://www.eventbrite.com/e/la-cookie-con-and-sweets-show-2016-tickets-18540251391?aff=ebapi',
+ST_GeographyFromText('SRID=4326;POINT(-110 30)') );

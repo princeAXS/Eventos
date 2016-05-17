@@ -1,0 +1,44 @@
+API : http://eventosdataapi-env.elasticbeanstalk.com
+
+1.) user signup
+[POST]
+params:   /?name=apc&emailid=abc@gmail.com&phn=1234567&password=123&selector=1
+op examples
+{"success":"true","userid":"1"}
+{"success":"false","error":"email already exits"}
+{"success":"false","error":"Some data is missing"}
+{"success":"false","error":"db error"}
+
+
+
+2.) user login
+[GET]
+params: /?email=apc@gmail.com&password=123&selector=2
+op : {"success":"true","userid":"1"}
+
+
+3.)geofence add
+[POST]
+params : /?userid=1&geofencename=geo&center=1&radius=12&selector=3&long=123&lat=23
+op : {"success":"true"}
+// radius in miles
+
+4.)exploring
+[GET]
+params : /?userid=1&selector=4
+op : {"success":"True","geofences":[[{"center":{"type":"Point","coordinates":[-110,30]},"geofenceid":"1","radius":"10"}],[{"center":{"type":"Point","coordinates":[-110,30]},"geofenceid":"2","radius":"10"}]]}
+
+5.) event listing
+[GET]
+params : /?geofenceid=2&selector=5
+op:{events details}
+
+6.)geofence update
+[PUT]
+params : /?geofenceid=1&geofencename=geo&long=12&lat=11&radius=12&selector=6
+op : {"success":"true"}
+
+7.)geo fence delete
+[DELETE]
+params : /?geofenceid=1&selector=7
+op : {"success":"true"}
